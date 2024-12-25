@@ -1,0 +1,56 @@
+*{  
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+body{
+    font-family: Helvetica;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    
+}
+.card{
+    padding: 60px;
+    background-color: antiquewhite;
+    text-align: center;
+    border-radius: 15px;
+   
+}
+button{
+    padding: 10px;
+    border: none;
+    font-weight: 600;
+    background-color: rgba(131, 186, 94, 0.751);
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+/* .circle{
+ width: 300px;
+ height: 300px;
+ border-radius: 50%;
+ border: 1px solid rgb(165, 148, 148);
+}
+button{
+    position: absolute;
+    top: 75%;
+    padding: 10px 12px ;
+    border: none;
+    font-weight: 600;
+    font-size: 25px;
+    border-radius: 10px;
+} */
+
+
